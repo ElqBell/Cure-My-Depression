@@ -1,5 +1,8 @@
 ---------------------general---------------------
 use some cool animations when loading
+
+use scss for cycle
+
 ---------------------general---------------------
 
 ---------------------aws-------------------------
