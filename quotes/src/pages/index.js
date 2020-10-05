@@ -1,6 +1,18 @@
-import React from "react"
-import "style.css";
+import React, { useState } from "react"
+import "./style.css";
+import Cured from "../components/cured/cured";
+import Depressed from "../components/depressed/depressed";
 
 export default function Home() {
-  return <div>Hello world!</div>
+  let [isCured, setIsCured] = useState(false);
+
+  return (
+    <main>
+      {
+        isCured ?
+        <Cured/> :
+        <Depressed setIsCured={setIsCured} />
+      }
+    </main>
+  );
 }

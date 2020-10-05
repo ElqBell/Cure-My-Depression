@@ -1,4 +1,5 @@
 ---------------------general---------------------
+use some cool animations when loading
 ---------------------general---------------------
 
 ---------------------aws-------------------------
@@ -12,3 +13,10 @@
 
 hugme/comfortme/curemydepression
 ineedahug/ make everything alright
+
+
+animations:
+https://animista.net/play/basic/shadow-pop/shadow-pop-tr
+https://animista.net/play/text/flicker
+https://animista.net/play/exits/flicker-out
+https://animista.net/play/entrances/flicker-in
