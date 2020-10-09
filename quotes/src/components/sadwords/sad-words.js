@@ -16,5 +16,5 @@ export default function SadWords() {
         return () => { clearTimeout(wordsTimeout) };
     }, [count, words]);
 
-    return <h1>{words[count]}</h1>;
+    return <h1 className="depressed-article__header__sad-words" >{ words[count] }</h1>;
 }

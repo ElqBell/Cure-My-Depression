@@ -1,7 +1,9 @@
 ---------------------general---------------------
-use some cool animations when loading
-
 use scss for cycle
+
+do from full screen to black bars appearing animation
+
+sad words fade in//
 
 ---------------------general---------------------
 
@@ -9,14 +11,12 @@ use scss for cycle
 ---------------------aws-------------------------
 
 ---------------------mobile----------------------
+do styles for mobile
 ---------------------mobile----------------------
 
 ---------------------ie--------------------------
+check ie
 ---------------------ie--------------------------
-
-hugme/comfortme/curemydepression
-ineedahug/ make everything alright
-
 
 animations:
 https://animista.net/play/basic/shadow-pop/shadow-pop-tr

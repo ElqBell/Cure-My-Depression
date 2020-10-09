@@ -1,0 +1,41 @@
+@import "./variables";
+
+.cured-article {
+    &__header {
+        text-align: left;
+
+        &__title {
+            color: $text-color;
+        }
+    }
+
+    &__section {
+        &__title {
+            border-left: 1px solid rgb(31, 31, 31);
+            padding-left: 2vw;
+            margin-top: 5vh;
+            color: $text-color;
+            text-align: left;
+            display: inline-block;
+        }
+
+        &__quote {
+            padding-left: 30vw;
+            margin-top: 6vh;
+    
+            &__text {
+                border-top: 1px solid rgb(31, 31, 31);
+                padding-top: 24px;
+                font-size: 2vw;
+                color: $complementary-color;
+            }
+    
+            &__author {
+                margin-top: 1.5vh;
+                font-size: 1.5vw;
+                color: rgba($complementary-color, 0.75);
+                text-align: right;
+            }
+        }
+    }
+}

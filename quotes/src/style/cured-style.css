@@ -1,0 +1,36 @@
+.cured-article__header {
+  text-align: left;
+}
+
+.cured-article__header__title {
+  color: #19a06e;
+}
+
+.cured-article__section__title {
+  border-left: 1px solid #1f1f1f;
+  padding-left: 2vw;
+  margin-top: 5vh;
+  color: #19a06e;
+  text-align: left;
+  display: inline-block;
+}
+
+.cured-article__section__quote {
+  padding-left: 30vw;
+  margin-top: 6vh;
+}
+
+.cured-article__section__quote__text {
+  border-top: 1px solid #1f1f1f;
+  padding-top: 24px;
+  font-size: 2vw;
+  color: #25acce;
+}
+
+.cured-article__section__quote__author {
+  margin-top: 1.5vh;
+  font-size: 1.5vw;
+  color: rgba(37, 172, 206, 0.75);
+  text-align: right;
+}
+/*# sourceMappingURL=cured-style.css.map */
